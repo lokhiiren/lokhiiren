@@ -1,5 +1,5 @@
 # Hi, I'm Lokhiren!
-(Lokhi for friends).
+(Lokhi or Egee for friends).
 
 <img src="https://github.com/lokhiiren/lokhiiren/blob/main/img/IMG_1605.png" width="700" >
 
