@@ -13,4 +13,5 @@ My fursona is a hybrid cat-dragon :smile_cat::dragon:
 - Python (a bit)
 - Assembly
 
+## Note
 _Everything I publish on this Github account is strictly for fun or for study purposes._
