@@ -10,6 +10,7 @@ My fursona is a hybrid cat-dragon :smile_cat::dragon:
 ## Programming skills
 - Java (still learning)
 - C/C++ (still learning)
+- Lua (the bare minimum to make awesome wm work)
 - Python (a bit)
 - VHDL
 - Assembly
