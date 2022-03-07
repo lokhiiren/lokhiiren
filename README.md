@@ -11,6 +11,7 @@ My fursona is a hybrid cat-dragon :smile_cat::dragon:
 - Java (still learning)
 - C/C++ (still learning)
 - Python (a bit)
+- VHDL
 - Assembly
 
 ## Note
