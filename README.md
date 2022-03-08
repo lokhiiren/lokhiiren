@@ -7,7 +7,7 @@
 I live in Switzerland and I am a furry computer science student with a particular interest in cyber security.<br/>
 My fursona is a hybrid cat-dragon :smile_cat::dragon:
 
-## Programming skills
+## Programming skills :desktop_computer:
 - Java (still learning)
 - C/C++ (still learning)
 - Lua (the bare minimum to make awesome wm work)
